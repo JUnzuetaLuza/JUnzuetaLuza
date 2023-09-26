@@ -1,4 +1,7 @@
-### Hi👋, I'm Jose Unzueta
+<h1 align='center'>Hi👋, I'm Jose Unzueta</h1>
+
+![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/JUnzuetaLuza/JUnzuetaLuza/assets/116515214/c6cd6837-28f1-4d40-a6a0-164ee9d81a3b)
+
 
 I'm a passionate full stack web developer with experience in a variety of technologies. My goal is to continue learning and growing in this exciting industry while contributing to the development of innovative solutions.
 I am committed to excellence and continuous improvement, and am excited about the opportunities this ever-evolving industry has to offer. I am always willing to take on new challenges and am eager to contribute to projects that require a creative mind and solid technical skills.
